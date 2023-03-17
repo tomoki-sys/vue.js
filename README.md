@@ -8,4 +8,6 @@ v-bind:=:
 v-on=@
 v-model
 
+vue.jsでcssを変更するにはv-bind
+
 算出プロパティ
